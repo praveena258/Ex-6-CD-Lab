@@ -11,6 +11,9 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 # PROGRAM
+
 # OUTPUT
+<img width="1195" height="632" alt="image" src="https://github.com/user-attachments/assets/cd8133b1-13cf-438b-a78f-687cad25f5ba" />
+
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
